@@ -1,7 +1,9 @@
 **Planet 50**
+
 A game simulation that educates players about sustainability through interactive challenges and decision-making.
 
 **Overview**
+
 Sustainability Quest is an educational game that blends engaging gameplay with real-world environmental concepts. Players face simulated scenarios where their choices impact resources, ecosystems, and community well-being. The goal is to learn how to make sustainable decisions while maintaining a thriving in-game environment.
 
 **Goals**
